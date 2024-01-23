@@ -1,8 +1,10 @@
-#  ⚙️ Digital Insights  
+#  ⚙️ Digital Insight 
 
-**`Digital Craftsman (Designer/Web-developer)`**
+**`Digital Craftsman (Designer/Front-End Developer)`**
 
-- Transforming Ideas into Visually Stunning Websites <br> - Currently leveling up my JavaScript skills and diving into React<br> - I’m looking to collaborate on any Frontend Projects
+- Transforming Ideas into Visually Stunning Websites <br>
+- Currently leveling up my JavaScript skills and diving into React <br>
+- I’m looking to collaborate on any Frontend Projects
 
 
 ## 🌐 Socials:
