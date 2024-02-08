@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 👋 Hi there, I'm Adeen.</h1>
+  <h1> 👋 Hi there, I'm Adeen. Welcome to my Profile </h1>
    <h3>Frontend Developer | Web Developer </h3>
   <hr>
 </div>
@@ -9,7 +9,7 @@
 ### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EXR6EK6T) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adeen.developer) 
 </div>
-<hr>
+
 <div align="center">
 
 ### Tech Stack
