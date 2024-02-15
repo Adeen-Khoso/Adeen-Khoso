@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 👋 About Me </h1>
+  <h1> Introduction </h1>
    <h3>Frontend Developer | Web Developer </h3>
   <hr>
 </div>
