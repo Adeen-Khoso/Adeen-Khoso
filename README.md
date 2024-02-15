@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Introduction </h1>
+  <img src= "https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png"> 
    <h3>Frontend Developer | Web Developer </h3>
   <hr>
 </div>
