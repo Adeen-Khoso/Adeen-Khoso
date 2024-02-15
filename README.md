@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 👋 Hi there, I'm Adeen. Welcome to my Profile </h1>
+  <h1> 👋 About Me </h1>
    <h3>Frontend Developer | Web Developer </h3>
   <hr>
 </div>
