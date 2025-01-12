@@ -11,6 +11,12 @@
 
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zain-Khoso&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zain-Khoso&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Khoso&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 <div align="center">
   
 ### Socials
