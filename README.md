@@ -17,9 +17,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EXR6EK6T) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adeen.developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeen-khoso)
 </div>
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adeen-Khoso)](https://git.io/streak-stats)
-</div>
+
 <!--   (https://github-readme-streak-stats.herokuapp.com?user=Adeen-Khoso&theme=dark&hide_border=true&border_radius=9.4)](https://git.io/streak-stats) -->
   
 
