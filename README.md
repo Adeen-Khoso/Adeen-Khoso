@@ -1,5 +1,6 @@
 <div align="left">
-  <img src= "https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png" style= "width:180px;"> 
+<!--   <img src= "https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png" style= "width:180px;">  -->
+  <img src= "https://w7.pngwing.com/pngs/772/987/png-transparent-react-native-logo-react-native-software-logo-social-media-logo-logo-technology-logo-3d-icon-thumbnail.png" style= "max-width:180px;"> 
    <h3>Frontend React Developer | Web Developer </h3>
   <hr>
 </div>
