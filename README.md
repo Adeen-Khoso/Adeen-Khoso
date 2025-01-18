@@ -17,13 +17,10 @@
 </div>
 <hr>
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adeen-Khoso)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adeen-Khoso&theme=rising-sun)](https://git.io/streak-stats)
 
 <!--   (https://github-readme-streak-stats.herokuapp.com?user=Adeen-Khoso&theme=dark&hide_border=true&border_radius=9.4)](https://git.io/streak-stats) -->
-  
-
-
 <div align="start">
 
 ### 
