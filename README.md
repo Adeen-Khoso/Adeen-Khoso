@@ -70,7 +70,6 @@
 
 </div>
 
-<div align="center">
 
 ---
 
@@ -78,5 +77,4 @@
   <img src="https://profile-counter.glitch.me/Adeen-Khoso/count.svg?"  />
 </div>
 
-</div>
 
