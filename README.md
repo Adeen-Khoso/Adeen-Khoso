@@ -5,7 +5,7 @@
 
    <h3>Frontend Web Developer | React Js </h3>
   <hr>
-</div>
+</div> 
 <div align="center">
 
 ### Tech Stack
