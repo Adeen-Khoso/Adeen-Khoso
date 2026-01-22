@@ -61,19 +61,21 @@
 
 
 
-<!--   (https://github-readme-streak-stats.herokuapp.com?user=Adeen-Khoso&theme=dark&hide_border=true&border_radius=9.4)](https://git.io/streak-stats) -->
+<!--   (https://github-readme-streak-stats.herokuapp.com?user=Adeen-Khoso&theme=dark&hide_border=true&border_radius=9.4)](https://git.io/streak-stats) 
 <div align="center">
 
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+-->
 
 
----
 
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/Adeen-Khoso/count.svg?"  />
 </div>
 
+-->
 
